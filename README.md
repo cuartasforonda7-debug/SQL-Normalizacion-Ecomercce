@@ -9,6 +9,7 @@ Este proyecto demuestra la transformación de una estructura de datos plana (Exc
 
 ## 📉 El Problema Inicial (Excel)
 Originalmente, la información se encontraba en una tabla plana con los siguientes problemas:
+<img width="715" height="86" alt="image" src="https://github.com/user-attachments/assets/52834a7a-7822-48ee-8145-c6fd21d7d121" />
 * **Grupos repetitivos:** Columnas como `Producto1`, `Producto2`, `Precio1`, `Precio2` que limitaban la cantidad de artículos por pedido.
 * **Redundancia:** Repetición innecesaria de nombres de ciudades y clientes en cada fila.
 * **Riesgo de inconsistencia:** Si un cliente cambiaba de ciudad, había que actualizarlo en múltiples filas.
