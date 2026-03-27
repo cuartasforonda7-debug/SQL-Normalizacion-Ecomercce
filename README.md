@@ -30,7 +30,7 @@ Se crearon 5 tablas relacionadas para separar las entidades del negocio:
 
 ## 🚀 Consultas Principales
 Se implementaron consultas con **JOINs** para reconstruir la información y generar reportes de ventas:
-
+<img width="370" height="131" alt="image" src="https://github.com/user-attachments/assets/21a23711-11ae-480a-a16d-0217d02bcbf5" />
 ```sql
 SELECT 
     P.PedidoID,
@@ -44,5 +44,5 @@ JOIN Clientes C ON P.ClienteID = C.ClienteID
 JOIN Ciudades Ci ON C.CiudadID = Ci.CiudadID
 JOIN DetallePedidos DP ON P.PedidoID = DP.PedidoID
 JOIN Productos Pr ON DP.ProductoID = Pr.ProductoID;
-<img width="370" height="131" alt="image" src="https://github.com/user-attachments/assets/21a23711-11ae-480a-a16d-0217d02bcbf5" />
+
 
