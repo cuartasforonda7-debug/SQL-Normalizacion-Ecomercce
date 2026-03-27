@@ -1,4 +1,4 @@
-<img width="674" height="421" alt="image" src="https://github.com/user-attachments/assets/86f9af05-3f44-43fc-89b6-9c50ff6fdc07" /><img width="674" height="421" alt="image" src="https://github.com/user-attachments/assets/a610eca4-ed05-415e-96a7-01fa77a424ab" /># SQL-Normalizacion-Ecomercce
+/># SQL-Normalizacion-Ecomercce
 Normalizacion y Estructura Relacional SQL
 # Proyecto: Normalización de Base de Datos E-commerce 🛒
 **Institución:** Cesde - Nivel 1
@@ -23,9 +23,9 @@ Se crearon 5 tablas relacionadas para separar las entidades del negocio:
 5. **DetallePedidos:** Relación de muchos a muchos que permite múltiples productos en un mismo pedido.
 
 ### 📐 Diagrama Entidad-Relación (DER)
-![Diagrama de Base de Datos](![file:///C:/Users/Estudiante.5CD4424W4C/Documents/CESDE/TABLAS%20NORMALIZACION/SQL-Normalizacion-Ecommerce/Captura%20de%20pantalla%202026-03-27%20152749.png]()
+![Diagrama de Base de Datos]
+<img width="674" height="421" alt="image" src="https://github.com/user-attachments/assets/86f9af05-3f44-43fc-89b6-9c50ff6fdc07" />
 ) 
-![Uploading Captura de pantalla 2026-03-27 152749.png…]()
 
 ## 🚀 Consultas Principales
 Se implementaron consultas con **JOINs** para reconstruir la información y generar reportes de ventas:
